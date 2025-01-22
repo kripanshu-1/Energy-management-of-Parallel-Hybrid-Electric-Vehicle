@@ -40,6 +40,6 @@ In fututre, Adaptive MPC can be implemented,which can dynamically update system 
 
 
 Author:
-Kripanshu Yadav
+Kripanshu Yadav,
 Dept. of Commercial Vehicle Technology, 
 RPTU Kaiserslautern, Germany
