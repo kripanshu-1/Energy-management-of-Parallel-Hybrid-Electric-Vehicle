@@ -33,16 +33,13 @@ Run the Simulink Model:
 Open the QSS_HEV.slx file in Simulink and simulate the model.
 
 
-Results and Findings:
-The MPC controller was able to minimize fuel consumption while ensuring battery charge sustainment.
-Simulations demonstrated effective power distribution between the electric motor and the combustion engine.
-The proposed strategy balanced performance and computational complexity effectively.
+Results and Future Improvements:
+The MPC controller was able to minimize fuel consumption while ensuring battery charge sustainment. Simulations demonstrated effective power distribution between the electric motor and the combustion engine.
+In fututre, Adaptive MPC can be implemented,which can dynamically update system parameters like motor efficiency and fuel rates.
 
-
-Future Improvements:
-Adaptive MPC: Dynamically update system parameters like motor efficiency and fuel rates.
-Stochastic MPC: Integrate stochastic models to handle unpredictable driving conditions more effectively.
 
 
 Author:
-Kripanshu Yadav - Dept. of Commercial Vehicle Technology, RPTU Kaiserslautern, Germany
+Kripanshu Yadav
+Dept. of Commercial Vehicle Technology, 
+RPTU Kaiserslautern, Germany
